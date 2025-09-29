@@ -1,0 +1,6 @@
+id;titular;idadeTitular;tipoReserva;ehAtiva;checkIn;valorTotal
+1;Carlos Silva;35;INDIVIDUAL;true;2025-10-01T14:00:00;450.00
+2;Fernanda Souza;28;FAMILIAR;false;2025-10-05T16:30:00;780.50
+3;João Lima;42;CORPORATIVA;true;2025-10-10T09:00:00;1200.00
+4;Mariana Costa;31;INDIVIDUAL;true;2025-10-15T13:15:00;390.75
+5;Roberto Alves;50;FAMILIAR;false;2025-10-20T11:00:00;620.00
